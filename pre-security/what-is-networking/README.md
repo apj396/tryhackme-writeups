@@ -42,7 +42,6 @@ A MAC (Media Access Control) address is a *physical* identifier hardcoded into a
 
 **The nuance worth noting:** MAC addresses can be *spoofed*. An attacker can change their device's MAC to impersonate another device on a local network — a technique relevant to ARP poisoning and network-based attacks. "Hardcoded" doesn't mean "immutable in practice."
 
-> For a deeper look at how MAC and IP addressing fit into the broader communication model, see my [OSI Model writeup on Medium](https://adwaitjoshi1.medium.com).
 
 ### 4. Ping (ICMP)
 `ping` is a command-line tool that uses ICMP (Internet Control Message Protocol) to test whether a device is reachable on a network.
