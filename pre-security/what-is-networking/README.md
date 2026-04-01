@@ -91,7 +91,7 @@ ping -c 4 192.168.1.1
 
 ---
 
-## SOC / Real-World Mapping
+## Real-World Mapping
 
 | Concept | Real-World Application |
 |---|---|
