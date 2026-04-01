@@ -4,7 +4,7 @@
 **Difficulty:** Easy  
 **Platform:** TryHackMe  
 **Room Link:** https://tryhackme.com/room/whatisnetworking  
-**Date Completed:** February 2026  
+**Date Completed:** January 2026  
 **Author:** Adwait Joshi
 
 ---
