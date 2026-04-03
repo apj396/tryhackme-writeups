@@ -9,13 +9,14 @@ Hands-on cybersecurity lab documentation.
 ## Progress
 
 - **Rooms Completed:** 1
-- **Current Path:** Pre-Security → Network Fundamentals
+- **Current Path:** Pre-Security (Legacy) → Network Fundamentals
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
 ---
 
 ## Writeups
 
-| Room | Module | Difficulty | Key Topics |
-|------|--------|-----------|-----------|
-| [What is Networking?](./pre-security/what-is-networking/) | Pre-Security | Easy | IP, MAC, ICMP, Ping |
+| # | Room | Module | Key Topics |
+|---|------|--------|-----------|
+| 01 | [What is Networking?](./pre-security-legacy/network-fundamentals/01-what-is-networking/) | Network Fundamentals | IP, MAC, ICMP, Ping |
+| 02 | [Intro to LAN](./pre-security-legacy/network-fundamentals/02-intro-to-lan/) | Network Fundamentals | Topologies, Subnetting, ARP, DHCP |
