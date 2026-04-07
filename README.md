@@ -8,7 +8,7 @@ Hands-on cybersecurity lab documentation.
 
 ## Progress
 
-- **Rooms Completed:** 4
+- **Rooms Completed:** 5
 - **Current Path:** Pre-Security (Legacy) → Network Fundamentals
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
