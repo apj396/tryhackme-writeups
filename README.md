@@ -22,3 +22,6 @@ Hands-on cybersecurity lab documentation.
 | 02 | [Intro to LAN](./pre-security-legacy/network-fundamentals/02-intro-to-lan/) | Network Fundamentals | Topologies, Subnetting, ARP, DHCP |
 | 03 | [OSI Model](./pre-security-legacy/network-fundamentals/03-osi-model/) | Network Fundamentals | 7 Layers, Encapsulation, Layer Attribution |
 | 04 | [Packets & Frames](./pre-security-legacy/network-fundamentals/04-packets-and-frames/) | Network Fundamentals | TCP, UDP, Three-Way Handshake, Ports, TTL |
+| 05 | [Extending Your Network](./pre-security-legacy/network-fundamentals/05-extending-your-network/) | Network Fundamentals | Port Forwarding, Firewalls, VPNs, Routing |
+
+> ✅ Network Fundamentals module complete — 5/5 rooms documented.
