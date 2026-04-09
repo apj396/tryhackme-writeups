@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 6
+- **Rooms Documented:** 7
 - **Currently Documenting:** Pre-Security (Legacy) → How the Web Works
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -46,7 +46,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | # | Room | Key Topics |
 |---|------|-----------|
 | 01 | [DNS in Detail](./pre-security-legacy/how-the-web-works/01-dns-in-detail/) | DNS Resolution, Record Types, TTL, DNS Attacks |
-| 02 | HTTP in Detail | 🔄 Pending |
+| 02 | [HTTP in Detail](./pre-security-legacy/how-the-web-works/02-http-in-detail/) | HTTP/S, Methods, Status Codes, Headers, Cookies |
 | 03 | How Websites Work | 🔄 Pending |
 | 04 | Putting It All Together | 🔄 Pending |
 
