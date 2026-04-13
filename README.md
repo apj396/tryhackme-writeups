@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 9
+- **Rooms Documented:** 10
 - **Currently Documenting:** Pre-Security (Legacy) → How the Web Works
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -51,3 +51,11 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 04 | [Putting It All Together](./pre-security-legacy/how-the-web-works/04-putting-it-all-together/) | Full Request Journey, Load Balancers, CDN, WAF, Databases |
 
 > ✅ How the Web Works — 4/4 rooms documented.
+
+#### Linux Fundamentals
+
+| # | Room | Key Topics |
+|---|------|-----------|
+| 01 | [Linux Fundamentals Part 1](./pre-security-legacy/linux-fundamentals/01-linux-fundamentals-part-1/) | Terminal, Navigation, File Operations, grep, find, Pipes |
+| 02 | Linux Fundamentals Part 2 | 🔄 Pending |
+| 03 | Linux Fundamentals Part 3 | 🔄 Pending |
