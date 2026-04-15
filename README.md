@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 11
+- **Rooms Documented:** 12
 - **Currently Documenting:** Pre-Security (Legacy) → How the Web Works
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -58,4 +58,6 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|------|-----------|
 | 01 | [Linux Fundamentals Part 1](./pre-security-legacy/linux-fundamentals/01-linux-fundamentals-part-1/) | Terminal, Navigation, File Operations, grep, find, Pipes |
 | 02 | [Linux Fundamentals Part 2](./pre-security-legacy/linux-fundamentals/02-linux-fundamentals-part-2/) | SSH, File Permissions, SUID, Man Pages, Utilities |
-| 03 | Linux Fundamentals Part 3 | 🔄 Pending |
+| 03 | [Linux Fundamentals Part 3](./pre-security-legacy/linux-fundamentals/03-linux-fundamentals-part-3/) | Cron Jobs, Process Management, Logs, Package Management, Services |
+
+> ✅ Linux Fundamentals — 3/3 rooms documented.
