@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 12
+- **Rooms Documented:** 13
 - **Currently Documenting:** Pre-Security (Legacy) → How the Web Works
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -61,3 +61,10 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 03 | [Linux Fundamentals Part 3](./pre-security-legacy/linux-fundamentals/03-linux-fundamentals-part-3/) | Cron Jobs, Process Management, Logs, Package Management, Services |
 
 > ✅ Linux Fundamentals — 3/3 rooms documented.
+
+#### Windows Fundamentals
+
+| # | Room | Key Topics |
+|---|------|-----------|
+| 01 | [Windows Fundamentals Part 1](./pre-security-legacy/windows-fundamentals/01-windows-fundamentals-part-1/) | NTFS, User Accounts, UAC, Task Scheduler, System Tools |
+| 02 | Windows Fundamentals Part 2 | 🔄 Pending |
