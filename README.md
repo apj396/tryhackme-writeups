@@ -10,8 +10,8 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 13
-- **Currently Documenting:** Pre-Security (Legacy) → How the Web Works
+- **Rooms Documented:** 14
+- **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
 ---
@@ -67,4 +67,11 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | # | Room | Key Topics |
 |---|------|-----------|
 | 01 | [Windows Fundamentals Part 1](./pre-security-legacy/windows-fundamentals/01-windows-fundamentals-part-1/) | NTFS, User Accounts, UAC, Task Scheduler, System Tools |
-| 02 | Windows Fundamentals Part 2 | 🔄 Pending |
+| 02 | [Windows Fundamentals Part 2](./pre-security-legacy/windows-fundamentals/02-windows-fundamentals-part-2/) | Registry, Resource Monitor, PowerShell, Windows Update, Defender |
+
+> ✅ Windows Fundamentals — 2/2 rooms documented.
+
+---
+> 🎉 Pre-Security (Legacy) — fully documented. 14/15 rooms complete.
+> Note: "Learning Cyber Security" intro room skipped — single-task overview room with no substantive lab content.
+---
