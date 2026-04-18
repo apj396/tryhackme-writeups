@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 14
+- **Rooms Documented:** 15
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -75,3 +75,11 @@ reasoning first, steps second. Two paths completed, documented progressively.
 > 🎉 Pre-Security (Legacy) — fully documented. 14/15 rooms complete.
 > Note: "Learning Cyber Security" intro room skipped — single-task overview room with no substantive lab content.
 ---
+
+## Cyber Security 101
+
+### Networking
+
+| # | Room | Topics |
+|---|---|---|
+| 01 | [Networking Concepts](./cyber-security-101/05-networking/01-networking-concepts/) | OSI model, TCP/IP model, IP addressing, subnets, TCP vs UDP, encapsulation, Telnet |
