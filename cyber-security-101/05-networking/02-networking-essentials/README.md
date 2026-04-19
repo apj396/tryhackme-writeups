@@ -98,7 +98,7 @@ The room runs through seven tasks. Tasks 2 through 6 cover DHCP, ARP, ICMP, rout
 
 ---
 
-## SOC / Real-World Mapping
+## Real-World Mapping
 
 | Concept | Real-World Application |
 |---|---|
