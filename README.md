@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 16
+- **Rooms Documented:** 17
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -76,11 +76,12 @@ reasoning first, steps second. Two paths completed, documented progressively.
 > Note: "Learning Cyber Security" intro room skipped — single-task overview room with no substantive lab content.
 ---
 
-## Cyber Security 101
+### Cyber Security 101
 
 ### Networking
 
 | # | Room | Key Topics |
-|---|------|-----------|
+|---|---|---|
 | 01 | [Networking Concepts](./cyber-security-101/05-networking/01-networking-concepts/) | OSI model, TCP/IP model, IP addressing, subnets, TCP vs UDP, encapsulation, Telnet |
 | 02 | [Networking Essentials](./cyber-security-101/05-networking/02-networking-essentials/) | DHCP, ARP, ICMP, routing, NAT |
+| 03 | [Networking Core Protocols](./cyber-security-101/05-networking/03-networking-core-protocols/) | DNS, WHOIS, HTTP, FTP, SMTP, POP3, IMAP |
