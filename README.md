@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 19
+- **Rooms Documented:** 20
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -87,5 +87,5 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 03 | [Networking Core Protocols](./cyber-security-101/05-networking/03-networking-core-protocols/) | DNS, WHOIS, HTTP, FTP, SMTP, POP3, IMAP |
 | 04 | [Networking Secure Protocols](./cyber-security-101/05-networking/04-networking-secure-protocols/) | TLS, HTTPS, SMTPS, POP3S, IMAPS, SSH, SFTP, FTPS, VPN |
 | 05 | [Wireshark: The Basics](./cyber-security-101/05-networking/05-wireshark-the-basics/) | Tool overview, packet dissection, packet navigation, display filters, Export Objects |
-| 06 | Tcpdump: The Basics | 🔄 Pending |
+| 06 | [Tcpdump: The Basics](./cyber-security-101/05-networking/06-tcpdump-the-basics/) | Basic capture, BPF filters, reading pcap files, advanced filtering, output control |
 | 07 | Nmap: The Basics | 🔄 Pending |
