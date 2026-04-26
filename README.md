@@ -88,4 +88,6 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 04 | [Networking Secure Protocols](./cyber-security-101/05-networking/04-networking-secure-protocols/) | TLS, HTTPS, SMTPS, POP3S, IMAPS, SSH, SFTP, FTPS, VPN |
 | 05 | [Wireshark: The Basics](./cyber-security-101/05-networking/05-wireshark-the-basics/) | Tool overview, packet dissection, packet navigation, display filters, Export Objects |
 | 06 | [Tcpdump: The Basics](./cyber-security-101/05-networking/06-tcpdump-the-basics/) | Basic capture, BPF filters, reading pcap files, advanced filtering, output control |
-| 07 | Nmap: The Basics | 🔄 Pending |
+| 07 | [Nmap: The Basics](./cyber-security-101/05-networking/07-nmap-the-basics/) | Host discovery, port scanning, service detection, OS fingerprinting, timing, output |
+
+> ✅ Networking — 7/7 rooms documented.
