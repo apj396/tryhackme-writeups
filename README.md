@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 20
+- **Rooms Documented:** 21
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
