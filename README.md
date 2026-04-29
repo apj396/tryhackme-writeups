@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 23
+- **Rooms Documented:** 24
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -84,7 +84,9 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Offensive Security Intro](./cyber-security-101/01-start-your-cyber-security-journey/01-offensive-security-intro/) | Offensive security mindset, GoBuster, directory brute-forcing, security through obscurity |
 | 02 | [Defensive Security Intro](./cyber-security-101/01-start-your-cyber-security-journey/02-defensive-security-intro/) | SOC, threat intelligence, DFIR, malware analysis, SIEM triage simulation |
-| 03 | Search Skills | 🔄 Pending |
+| 03 | [Search Skills](./cyber-security-101/01-start-your-cyber-security-journey/03-search-skills/) | Source evaluation, Google dorking, Shodan, VirusTotal, CVE, NVD, Exploit-DB, OSINT |
+
+> ✅ Start Your Cyber Security Journey — 3/3 rooms documented.
 
 #### Networking
 
