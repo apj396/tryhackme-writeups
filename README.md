@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 24
+- **Rooms Documented:** 25
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -87,6 +87,14 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 03 | [Search Skills](./cyber-security-101/01-start-your-cyber-security-journey/03-search-skills/) | Source evaluation, Google dorking, Shodan, VirusTotal, CVE, NVD, Exploit-DB, OSINT |
 
 > ✅ Start Your Cyber Security Journey — 3/3 rooms documented.
+
+#### Linux Fundamentals
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Linux Fundamentals Part 1](./cyber-security-101/02-linux-fundamentals/01-linux-fundamentals-part-1/) | echo, whoami, ls, cd, cat, pwd, find, grep, shell operators |
+| 02 | Linux Fundamentals Part 2 | 🔄 Pending |
+| 03 | Linux Fundamentals Part 3 | 🔄 Pending |
 
 #### Networking
 
