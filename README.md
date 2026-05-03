@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 26
+- **Rooms Documented:** 27
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -94,7 +94,9 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Linux Fundamentals Part 1](./cyber-security-101/02-linux-fundamentals/01-linux-fundamentals-part-1/) | echo, whoami, ls, cd, cat, pwd, find, grep, shell operators |
 | 02 | [Linux Fundamentals Part 2](./cyber-security-101/02-linux-fundamentals/02-linux-fundamentals-part-2/) | SSH, flags and switches, man pages, touch, mkdir, cp, mv, rm, file, permissions, su, root directories |
-| 03 | Linux Fundamentals Part 3 | 🔄 Pending |
+| 03 | [Linux Fundamentals Part 3](./cyber-security-101/02-linux-fundamentals/03-linux-fundamentals-part-3/) | Nano, Vim, wget, scp, Python HTTPServer, processes, systemctl, crontabs, apt, log files |
+
+> ✅ Linux Fundamentals — 3/3 rooms documented.
 
 #### Networking
 
