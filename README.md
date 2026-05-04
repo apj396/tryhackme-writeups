@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 27
+- **Rooms Documented:** 28
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -97,6 +97,15 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 03 | [Linux Fundamentals Part 3](./cyber-security-101/02-linux-fundamentals/03-linux-fundamentals-part-3/) | Nano, Vim, wget, scp, Python HTTPServer, processes, systemctl, crontabs, apt, log files |
 
 > ✅ Linux Fundamentals — 3/3 rooms documented.
+
+#### Windows and AD Fundamentals
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Windows Fundamentals 1](./cyber-security-101/03-windows-and-ad-fundamentals/01-windows-fundamentals-1/) | Windows desktop, NTFS, ADS, System32, user accounts, UAC, Control Panel, Task Manager |
+| 02 | Windows Fundamentals 2 | 🔄 Pending |
+| 03 | Windows Fundamentals 3 | 🔄 Pending |
+| 04 | Active Directory Basics | 🔄 Pending |
 
 #### Networking
 
