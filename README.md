@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 29
+- **Rooms Documented:** 30
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -104,7 +104,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Windows Fundamentals 1](./cyber-security-101/03-windows-and-ad-fundamentals/01-windows-fundamentals-1/) | Windows desktop, NTFS, ADS, System32, user accounts, UAC, Control Panel, Task Manager |
 | 02 | [Windows Fundamentals 2](./cyber-security-101/03-windows-and-ad-fundamentals/02-windows-fundamentals-2/) | MSConfig, UAC settings, Computer Management, System Information, Resource Monitor, CMD, Registry |
-| 03 | Windows Fundamentals 3 | 🔄 Pending |
+| 03 | [Windows Fundamentals 3](./cyber-security-101/03-windows-and-ad-fundamentals/03-windows-fundamentals-3/) | Windows Update, Defender AV, Firewall profiles, SmartScreen, TPM, BitLocker, VSS, LotL |
 | 04 | Active Directory Basics | 🔄 Pending |
 
 #### Networking
