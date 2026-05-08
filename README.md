@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 31
+- **Rooms Documented:** 32
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -108,6 +108,14 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 04 | [Active Directory Basics](./cyber-security-101/03-windows-and-ad-fundamentals/04-active-directory-basics/) | Domains, AD DS, OUs, GPOs, SYSVOL, Kerberos, NetNTLM, trees, forests, trust relationships |
 
 > ✅ Windows and AD Fundamentals — 4/4 rooms documented.
+
+#### Command Line
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Windows Command Line](./cyber-security-101/04-command-line/01-windows-command-line/) | ver, systeminfo, ipconfig, netstat -abon, ping, tracert, nslookup, dir, type, tasklist, taskkill |
+| 02 | Windows PowerShell | 🔄 Pending |
+| 03 | Linux Shells | 🔄 Pending |
 
 #### Networking
 
