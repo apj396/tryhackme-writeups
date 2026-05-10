@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 33
+- **Rooms Documented:** 34
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -115,7 +115,9 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Windows Command Line](./cyber-security-101/04-command-line/01-windows-command-line/) | ver, systeminfo, ipconfig, netstat -abon, ping, tracert, nslookup, dir, type, tasklist, taskkill |
 | 02 | [Windows PowerShell](./cyber-security-101/04-command-line/02-windows-powershell/) | Cmdlets, object pipeline, Get-ChildItem, Where-Object, Sort-Object, Select-String, Get-Process, Get-Service, scripting, execution policy, modules |
-| 03 | Linux Shells | 🔄 Pending |
+| 03 | [Linux Shells](./cyber-security-101/04-command-line/03-linux-shells/) | Shell types, Bash, Fish, Zsh, /etc/shells, history, chsh, scripting, shebang, variables, loops, conditionals |
+
+> ✅ Command Line — 3/3 rooms documented.
 
 #### Networking
 
