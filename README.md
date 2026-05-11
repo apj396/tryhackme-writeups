@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 34
+- **Rooms Documented:** 35
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -132,3 +132,12 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 07 | [Nmap: The Basics](./cyber-security-101/05-networking/07-nmap-the-basics/) | Host discovery, port scanning, service detection, OS fingerprinting, timing, output |
 
 > ✅ Networking — 7/7 rooms documented.
+
+#### Cryptography
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Cryptography Basics](./cyber-security-101/06-cryptography/01-cryptography-basics/) | Plaintext, ciphertext, cipher, key, Caesar Cipher, symmetric encryption, DES, AES, XOR, modulo |
+| 02 | Public Key Cryptography Basics | 🔄 Pending |
+| 03 | Hashing Basics | 🔄 Pending |
+| 04 | John the Ripper: The Basics | 🔄 Pending |
