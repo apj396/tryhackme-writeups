@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 36
+- **Rooms Documented:** 37
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -139,5 +139,5 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Cryptography Basics](./cyber-security-101/06-cryptography/01-cryptography-basics/) | Plaintext, ciphertext, cipher, key, Caesar Cipher, symmetric encryption, DES, AES, XOR, modulo |
 | 02 | [Public Key Cryptography Basics](./cyber-security-101/06-cryptography/02-public-key-cryptography-basics/) | RSA, Diffie-Hellman, SSH key auth, digital signatures, certificates, chain of trust, GPG |
-| 03 | Hashing Basics | 🔄 Pending |
+| 03 | [Hashing Basics](./cyber-security-101/06-cryptography/03-hashing-basics/) | Hash functions, MD5, SHA-256, rainbow tables, salting, bcrypt, hashcat, HMAC, file integrity, encoding vs encryption |
 | 04 | John the Ripper: The Basics | 🔄 Pending |
