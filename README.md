@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 38
+- **Rooms Documented:** 39
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -143,3 +143,13 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 04 | [John the Ripper: The Basics](./cyber-security-101/06-cryptography/04-john-the-ripper-the-basics/) | Basic cracking, NTLM, unshadow, single crack mode, custom rules, zip2john, ssh2john, *2john utilities |
 
 > ✅ Cryptography — 4/4 rooms documented.
+
+#### Exploitation Basics
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Moniker Link](./cyber-security-101/07-exploitation-basics/01-moniker-link/) | CVE-2024-21413, Outlook Protected View bypass, file:// Moniker Link, Responder, netNTLMv2, YARA detection |
+| 02 | Metasploit: Introduction | 🔄 Pending |
+| 03 | Metasploit: Exploitation | 🔄 Pending |
+| 04 | Metasploit: Meterpreter | 🔄 Pending |
+| 05 | Blue | 🔄 Pending |
