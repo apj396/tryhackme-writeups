@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 40
+- **Rooms Documented:** 41
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -150,6 +150,6 @@ reasoning first, steps second. Two paths completed, documented progressively.
 |---|---|---|
 | 01 | [Moniker Link](./cyber-security-101/07-exploitation-basics/01-moniker-link/) | CVE-2024-21413, Outlook Protected View bypass, file:// Moniker Link, Responder, netNTLMv2, YARA detection |
 | 02 | [Metasploit: Introduction](./cyber-security-101/07-exploitation-basics/02-metasploit-introduction/) | Metasploit modules, msfconsole, search, use, show options, set, payloads, auxiliary, encoders, NOPs, msfdb |
-| 03 | Metasploit: Exploitation | 🔄 Pending |
+| 03 | [Metasploit: Exploitation](./cyber-security-101/07-exploitation-basics/03-metasploit-exploitation/) | db_nmap, hosts, services, auxiliary scanners, MS17-010, EternalBlue, sessions, shell_to_meterpreter |
 | 04 | Metasploit: Meterpreter | 🔄 Pending |
 | 05 | Blue | 🔄 Pending |
