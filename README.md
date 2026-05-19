@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 42
+- **Rooms Documented:** 43
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -152,4 +152,6 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 02 | [Metasploit: Introduction](./cyber-security-101/07-exploitation-basics/02-metasploit-introduction/) | Metasploit modules, msfconsole, search, use, show options, set, payloads, auxiliary, encoders, NOPs, msfdb |
 | 03 | [Metasploit: Exploitation](./cyber-security-101/07-exploitation-basics/03-metasploit-exploitation/) | db_nmap, hosts, services, auxiliary scanners, MS17-010, EternalBlue, sessions, shell_to_meterpreter |
 | 04 | [Metasploit: Meterpreter](./cyber-security-101/07-exploitation-basics/04-metasploit-meterpreter/) | Meterpreter commands, migrate, getsystem, hashdump, search, cat, load kiwi, post modules, fileless execution |
-| 05 | Blue | 🔄 Pending |
+| 05 | [Blue](./cyber-security-101/07-exploitation-basics/05-blue/) | Nmap vuln scan, MS17-010, EternalBlue, shell upgrade, getsystem, migrate, hashdump, password cracking, flags |
+
+> ✅ Exploitation Basics — 5/5 rooms documented.
