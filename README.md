@@ -10,7 +10,7 @@ reasoning first, steps second. Two paths completed, documented progressively.
 ## Progress
 
 - **Rooms Completed:** 70+ (Pre-Security Legacy + Cyber Security 101)
-- **Rooms Documented:** 43
+- **Rooms Documented:** 44
 - **Currently Documenting:** Cyber Security 101
 - **Focus:** SOC fundamentals, network analysis, threat detection
 
@@ -155,3 +155,12 @@ reasoning first, steps second. Two paths completed, documented progressively.
 | 05 | [Blue](./cyber-security-101/07-exploitation-basics/05-blue/) | Nmap vuln scan, MS17-010, EternalBlue, shell upgrade, getsystem, migrate, hashdump, password cracking, flags |
 
 > ✅ Exploitation Basics — 5/5 rooms documented.
+
+#### Web Hacking
+
+| # | Room | Key Topics |
+|---|---|---|
+| 01 | [Web Application Basics](./cyber-security-101/08-web-hacking/01-web-application-basics/) | URLs, HTTP methods, status codes, request/response headers, cookies, Secure, HttpOnly, CSP, HSTS |
+| 02 | JavaScript Essentials | 🔄 Pending |
+| 03 | SQL Fundamentals | 🔄 Pending |
+| 04 | Burp Suite: The Basics | 🔄 Pending |
